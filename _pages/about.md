@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-(https://github.com/staeiou/staeiou.github.io).
-
 A data-driven personal website
 ======
 (https://academicpages.github.io/talkmap.html).
