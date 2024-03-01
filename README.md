@@ -1,5 +1,5 @@
-
-# Academic Pages
-
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+# PROFILE
+###
+A Doctor of Philosophy aspirant with a strong interest in power electronics for electric vehicles and a substantial
+understanding of the field. My research to date has helped me improve my skills in electrical vehicles, which I am enthusiastic about.
 
