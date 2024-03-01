@@ -24,15 +24,16 @@ author:
   avatar           : "nbs.JPG"
   name             : "Nikhil B Sardar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A Doctor of Philosophy aspirant with a strong interest in power electronics for electric vehicles and substantial
+understanding of the field. My research to date has helped me improve my skills in the field of electrical vehicles, which I am enthusiastic about."
+  location         : "Pune-India"
+  employer         : "MIT AOE Aland (D) Pune"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nbsardar@mitaoe.ac.in" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=HJbiGIcAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
