@@ -6,10 +6,10 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
+Basic Site Settings :
 locale                   : "India"
 title                    : "Introduction"
-title_separator          : "-"
+title_separator          : "."
 name                     : &name "Nikhil B Sardar"
 description              : &description "ABC"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
