@@ -12,7 +12,7 @@ title                    : "Nikhil B Sardar"
 title_separator          : "."
 name                     : &name "Nikhil B Sardar"
 description              : &description "ABC"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nikhilbsardar.github.io/Nikhil-B-Sardar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
