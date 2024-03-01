@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "PROFILE" /
-Nikhil
+Nikhil :
 author_profile: true
 redirect_from: 
   - /about/
