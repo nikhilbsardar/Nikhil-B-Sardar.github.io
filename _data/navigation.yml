@@ -4,6 +4,9 @@ main:
     url: /publications/ 
     url: https://scholar.google.com/citations?user=HJbiGIcAAAAJ&hl=en&oi=ao
 
+ - title: "Patent"
+    url: /patent/ 
+
   - title: "Teaching"
     url: /teaching/    
             
