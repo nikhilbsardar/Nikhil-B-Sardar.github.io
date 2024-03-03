@@ -5,7 +5,8 @@ main:
     url: https://scholar.google.com/citations?user=HJbiGIcAAAAJ&hl=en&oi=ao
    
   - title: "Patent"
-    url: /Patent/  
+    url: /Patent/ 
+    url: /files/Nikhil_patent.pdf
     
   - title: "CV"
     url: /cv/
