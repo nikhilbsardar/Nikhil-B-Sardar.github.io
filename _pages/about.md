@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Introduction
 
 * A Doctor of Philosophy aspirant with a strong interest in power electronics for electric vehicles (EVs) and a substantial
@@ -19,11 +20,24 @@ Education
 | M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |(CGPI: 8.2/10 | May’ 2017
 |B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|GPI: 7.42/10 | June’ 2013
 
+Work Experience
+
+Assistant Professor
+MIT Academy of Engineering, Alandi (D), Pune, India
+Aug'2018- Current
+• Research and patent on “Throttle-less E-bicycle”.
+• Research on Fuzzy logic-based controllers for BLDC and PMDC Motor.
+• Courses taught:
+1. Electrical and Electronics engineering
+2.  Power Electronics
+3. Calculus and differential equations
+4. Electronics devices and circuits
+
+
 Projects
 
 M.Tech Project:
 Real-Time Monitoring of Points of Common Coupling in Distribution Systems through State Estimation:
-Guide Name: Dr. Sydulu Maheswarapu
 * Modelled a distribution Network.
 * Performed Root-vector-based Algorithm for observability test for IEEE 34 bus system to add Pseudo Measurements in the system.
 * Implemented and compared results of the Forward/Backward sweep algorithm and Improved the Load flow method of the IEEE 34 bus distribution system.
