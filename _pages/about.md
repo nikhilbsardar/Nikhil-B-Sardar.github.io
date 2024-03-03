@@ -17,8 +17,8 @@ understanding of the field.
 
 Education
 
-| M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |CGPI: 8.20/10|May’ 2017
-|B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|CGPI: 7.42/10|June’ 2013
+| M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |CGPI: 8.20/10|May’2017
+|B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|CGPI: 7.42/10|June’2013
 
 Work Experience
 
