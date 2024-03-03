@@ -1,18 +1,19 @@
 ---
 permalink: /
-title: "ABOUT ME" 
-excerpt: "About Me"
+title: "INTRODUCTION" 
+excerpt: "INTRODUCTION"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-PROFILE
 
-A Doctor of Philosophy aspirant with a strong interest in power electronics for electric vehicles (EVs) and a substantial
-understanding of the field. My research has helped me improve my skills in EVs, which I am enthusiastic about.
+* A Doctor of Philosophy aspirant with a strong interest in power electronics for electric vehicles (EVs) and a substantial
+understanding of the field.
+* My research and patent work has helped me improve my skills in EVs, which I am enthusiastic about.
+* Proficiency in MATLAB Programming and Simulink 
 
-EDUCATION
+Education
 
 
 | M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |(CGPI: 8.2/10 | May’ 2017
