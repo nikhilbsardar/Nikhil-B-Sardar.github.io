@@ -5,8 +5,17 @@ main:
     url: https://scholar.google.com/citations?user=HJbiGIcAAAAJ&hl=en&oi=ao
    
   - title: "Patent"
-    url: /Patent/    
-            
+    url: /Patent/   
+    ---
+____
+permalink: /
+title: "ABOUT ME" 
+excerpt: "ABOUT ME"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---         
   - title: "CV"
     url: /cv/
     url: /files/NikhilBSardar.pdf
