@@ -16,6 +16,6 @@ EDUCATION
 
 
 | M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |(CGPI: 8.2/10 | May’ 2017
-
- B. Tech: Electrical Engineering ( GPI: 7.42/10: Walchand College of Engineering, Sangli)- July’ 2009 – June’ 2013
+|____________________________________________|___________________________________________________|______________|__________
+|B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|GPI: 7.42/10 | June’ 2013
 
