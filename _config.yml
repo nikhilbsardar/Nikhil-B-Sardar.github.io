@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "2.png"
+  avatar           : "nbs.png"
   name             : "Nikhil B Sardar"
   pronouns         : # example: "she/her"  
   bio              : "A Doctor of Philosophy aspirant"
