@@ -4,8 +4,8 @@ main:
     url: /publications/ 
     url: https://scholar.google.com/citations?user=HJbiGIcAAAAJ&hl=en&oi=ao
    
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Patent"
+    url: /Patent/    
             
   - title: "CV"
     url: /cv/
@@ -14,6 +14,6 @@ main:
   - title: "References"
     url: /markdown/
     
-  - title : "Hobbies"
-    url : /Hobbies/ 
+  - title : "Music as a Hobby"
+    url : /Music as a Hobby/ 
     url: https://www.youtube.com/channel/UCeQFji64Jl1J6-6dGYKOAPg
