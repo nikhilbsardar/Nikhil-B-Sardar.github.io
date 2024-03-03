@@ -25,13 +25,14 @@ Work Experience
 Assistant Professor
 MIT Academy of Engineering, Alandi (D), Pune, India
 Aug'2018- Current
-• Research and patent on “Throttle-less E-bicycle”.
-• Research on Fuzzy logic-based controllers for BLDC and PMDC Motor.
-• Courses taught:
-1. Electrical and Electronics engineering
-2.  Power Electronics
-3. Calculus and differential equations
-4. Electronics devices and circuits
+* Experience in performing lab experiments (Hardware) on start and delta connections for 3-phase systems, finding characteristics of semiconductor devices ( MOSFET, SCR, TRAIC, IGBT), BJT as a switch and IC-regulated power supply,
+* Experience in performing lab experiments on power electronics- Rectifier Circuits, 1-phase and 3-phase Inverters (Using Simulink), Buck and boost DC-DC converters
+* Research on Throttle-less E-bicycle: This research work is focused on automating an E-bicycle using a few sensors
+* Courses taught:
+    * Electrical and Electronics engineering
+    * Power Electronics
+    * Calculus and differential equations
+    * Electronics devices and circuits
 
 
 Projects
