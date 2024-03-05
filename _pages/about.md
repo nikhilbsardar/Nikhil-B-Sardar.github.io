@@ -18,7 +18,7 @@ understanding of the field.
 Education
 
 | M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |CGPI: 8.20/10|May’2017
-|B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|CGPI: 7.42/10|June’2013
+| B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|CGPI: 7.42/10|June’2013
 
 Work Experience
 
@@ -51,8 +51,8 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
 B.Tech Project:
 Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * Studied the electrical systems and types of load connected.
-* Created the same type of load and total harmonic distortion level using Silumink in MATLAB.
-* Measured the Power factor of a company using a power analyser device.
+* Measured the Power factor and total harmonic distortion (THD) of a company using a power analyser device.
+* Created the same type of load and total harmonic distortion (THD) level using Silumink in MATLAB.
 * Designed an active filer on MATLAB to improve the overall power factor.
 
 
