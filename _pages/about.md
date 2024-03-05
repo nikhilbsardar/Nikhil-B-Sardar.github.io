@@ -56,6 +56,6 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * Designed an active filer on MATLAB to improve the overall power factor.
 
 Research Summary:
-URL: "https://scholar.google.com/citations?hl=en&user=HJbiGIcAAAAJ"
+URL : "https://scholar.google.com/citations?hl=en&user=HJbiGIcAAAAJ"
 
 
