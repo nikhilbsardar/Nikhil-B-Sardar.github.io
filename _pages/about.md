@@ -34,11 +34,14 @@ Aug'2018- Current
     * Calculus and differential equations
     * Electronics devices and circuits
 
-
-
-
-
-
+**Assistant Professor**
+Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati 
+June’2017 – May’2018
+* Experience in performing lab sessions on power systems and power electronics.
+* Courses taught:
+    * Power systems
+    * Power electronics
+  
 PROJECTS
 
 **M.Tech Project:**
