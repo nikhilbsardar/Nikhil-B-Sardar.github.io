@@ -48,3 +48,11 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
 * The results were assessed and compared to the planned power injections.
 * These estimated and recognized unscheduled power injections at PCC were caused by natural calamities that affected distribution networks.
 
+B.Tech Project:
+Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
+* Studied the electrical systems and types of load connected.
+* Created the same type of load and total harmonic distortion level using Silumink in MATLAB.
+* Measured the Power factor of a company using a power analyser device.
+* Designed an active filer on MATLAB to improve the overall power factor.
+
+
