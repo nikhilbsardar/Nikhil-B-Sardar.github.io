@@ -19,6 +19,7 @@ understanding of the field.
 | M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |CGPI: 8.20/10|May’2017
 | B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|CGPI: 7.42/10|June’2013
 
+
 **WORK EXPERIENCE**
 
 Assistant Professor\
@@ -41,7 +42,7 @@ June’2017 – May’2018
     * Power systems
     * Power electronics
   
-**PROJECTS**\
+**PROJECTS**
 
 *M.Tech Project:*\
 Real-Time Monitoring of Points of Common Coupling in Distribution Systems through State Estimation:
