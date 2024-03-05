@@ -24,7 +24,7 @@ WORK EXPERIENCE
 
 **Assistant Professor** \
 MIT Academy of Engineering, Alandi (D), Pune, India \
-Aug'2018- Current\
+Aug'2018- Current
 * Experience in performing lab experiments (Hardware) on start and delta connections for 3-phase systems, finding characteristics of semiconductor devices ( MOSFET, SCR, TRAIC, IGBT), BJT as a switch and IC-regulated power supply,
 * Experience in performing lab experiments on power electronics- Rectifier Circuits, 1-phase and 3-phase Inverters (Using Simulink), Buck and boost DC-DC converters
 * Research on Throttle-less E-bicycle: This research work is focused on automating an E-bicycle using a few sensors
@@ -34,8 +34,8 @@ Aug'2018- Current\
     * Calculus and differential equations
     * Electronics devices and circuits
 
-**Assistant Professor**  
-Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati 
+**Assistant Professor**\
+Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati\
 June’2017 – May’2018
 * Experience in performing lab sessions on power systems and power electronics.
 * Courses taught:
@@ -44,9 +44,7 @@ June’2017 – May’2018
   
 PROJECTS
 
-**M.Tech Project:**
-
-
+**M.Tech Project:**\
 Real-Time Monitoring of Points of Common Coupling in Distribution Systems through State Estimation:
 * Modelled a distribution Network.
 * Performed Root-vector-based Algorithm for observability test for IEEE 34 bus system to add Pseudo Measurements in the system.
@@ -57,8 +55,7 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
 * The results were assessed and compared to the planned power injections.
 * These estimated and recognized unscheduled power injections at PCC were caused by natural calamities that affected distribution networks.
 
-**B.Tech Project:**
-
+**B.Tech Project:**\
 Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * Studied the electrical systems and types of load connected.
 * Measured the Power factor and total harmonic distortion (THD) of a company using a power analyser device.
