@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-**INTRODUCTION**\
+**INTRODUCTION**
 * A Doctor of Philosophy aspirant with a strong interest in power electronics for electric vehicles (EVs) and a substantial
 understanding of the field.
 * My research and patent work has helped me improve my skills in EVs, which I am enthusiastic about.
 * Proficiency in MATLAB Programming and Simulink 
 
-**EDUCATION**\
+**EDUCATION**
+
 | M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |CGPI: 8.20/10|May’2017
 | B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|CGPI: 7.42/10|June’2013
 
-**WORK EXPERIENCE**\
+**WORK EXPERIENCE**
+
 Assistant Professor\
 MIT Academy of Engineering, Alandi (D), Pune, India \
 Aug'2018- Current
@@ -39,7 +41,7 @@ June’2017 – May’2018
     * Power systems
     * Power electronics
   
-**PROJECTS**\
+**PROJECTS**
 M.Tech Project:\
 Real-Time Monitoring of Points of Common Coupling in Distribution Systems through State Estimation:
 * Modelled a distribution Network.
@@ -58,11 +60,11 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * Created the same type of load and total harmonic distortion (THD) level using Silumink in MATLAB.
 * Designed an active filer on MATLAB to improve the overall power factor.
 
-**AWARDS AND ACHIEVEMENTS**\
+**AWARDS AND ACHIEVEMENTS**
 * National Institute of Technology, (NIT), Warangal, GATE Scholarship (Aug 2015 – May 2017)
 * Qualified in electrical engineering GATE 2014-15 & 2017-18
 
-**EXTRACURRICULAR ACTIVITIES**\
+**EXTRACURRICULAR ACTIVITIES**
 * Composed, written, and recorded 5 Hindi songs.
 * Played Bass Guitar and Piano for many shows.
 * Performed at TEDxMITAOE 2020.
