@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Introduction
+IntroductioN
+INTRODUCTION
 
 * A Doctor of Philosophy aspirant with a strong interest in power electronics for electric vehicles (EVs) and a substantial
 understanding of the field.
@@ -16,11 +17,13 @@ understanding of the field.
 * Proficiency in MATLAB Programming and Simulink 
 
 Education
+EDUCATION
 
 | M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |CGPI: 8.20/10|May’2017
 | B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|CGPI: 7.42/10|June’2013
 
 Work Experience
+WORK EXPERIENCE
 
 Assistant Professor
 MIT Academy of Engineering, Alandi (D), Pune, India
@@ -33,6 +36,10 @@ Aug'2018- Current
     * Power Electronics
     * Calculus and differential equations
     * Electronics devices and circuits
+
+
+
+
 
 
 Projects
@@ -62,5 +69,6 @@ Awards and Achievements
 * National Institute of Technology, (NIT), Warangal, GATE Scholarship (Aug 2015 – May 2017)
 * Qualified in electrical engineering GATE 2014-15 & 2017-18
 
+EXTRA CURRICULAR ACTIVITIES
 
 
