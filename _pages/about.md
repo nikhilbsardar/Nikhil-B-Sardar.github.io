@@ -42,6 +42,7 @@ June’2017 – May’2018
     * Power electronics
   
 **PROJECTS**\
+
 *M.Tech Project:*\
 Real-Time Monitoring of Points of Common Coupling in Distribution Systems through State Estimation:
 * Modelled a distribution Network.
