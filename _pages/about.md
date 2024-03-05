@@ -42,7 +42,7 @@ June’2017 – May’2018
     * Power electronics
   
 **PROJECTS**\
-**M.Tech Project:**\
+*M.Tech Project:*\
 Real-Time Monitoring of Points of Common Coupling in Distribution Systems through State Estimation:
 * Modelled a distribution Network.
 * Performed Root-vector-based Algorithm for observability test for IEEE 34 bus system to add Pseudo Measurements in the system.
@@ -53,7 +53,7 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
 * The results were assessed and compared to the planned power injections.
 * These estimated and recognized unscheduled power injections at PCC were caused by natural calamities that affected distribution networks.
 
-**B.Tech Project:**\
+*B.Tech Project:*\
 Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * Studied the electrical systems and types of load connected.
 * Measured the Power factor and total harmonic distortion (THD) of a company using a power analyser device.
