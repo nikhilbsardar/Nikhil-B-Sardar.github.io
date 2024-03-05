@@ -38,6 +38,7 @@ Aug'2018- Current
 Projects
 
 M.Tech Project:
+
 Real-Time Monitoring of Points of Common Coupling in Distribution Systems through State Estimation:
 * Modelled a distribution Network.
 * Performed Root-vector-based Algorithm for observability test for IEEE 34 bus system to add Pseudo Measurements in the system.
@@ -49,13 +50,17 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
 * These estimated and recognized unscheduled power injections at PCC were caused by natural calamities that affected distribution networks.
 
 B.Tech Project:
+
 Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * Studied the electrical systems and types of load connected.
 * Measured the Power factor and total harmonic distortion (THD) of a company using a power analyser device.
 * Created the same type of load and total harmonic distortion (THD) level using Silumink in MATLAB.
 * Designed an active filer on MATLAB to improve the overall power factor.
 
-Research Summary:
-URL : "https://scholar.google.com/citations?hl=en&user=HJbiGIcAAAAJ"
+Awards and Achievements
+
+* National Institute of Technology, (NIT), Warangal, GATE Scholarship (Aug 2015 – May 2017)
+* Qualified in electrical engineering GATE 2014-15 & 2017-18
+
 
 
