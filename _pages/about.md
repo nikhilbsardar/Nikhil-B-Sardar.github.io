@@ -52,10 +52,12 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
 * Implemented and compared results of the Forward/Backward sweep algorithm and Improved the Load flow method of the IEEE 34 bus distribution system.
 * Implemented state estimation in the distribution system using the weighted least squares method.
 * Identified bad data using the collinearity test.
+![Distribution Systems](images/4.png)
 * Identified unplanned reactive and active power inputs at PCC to prevent the grid from isolating itself without a system fault.
 * The results were assessed and compared to the planned power injections.
 * These estimated and recognized unscheduled power injections at PCC were caused by natural calamities that affected distribution networks.
 ![Distribution Systems](images/22.png)
+
 
 *B.Tech Project:*\
 Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
