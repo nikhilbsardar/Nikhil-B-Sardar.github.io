@@ -77,6 +77,6 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * Played Bass Guitar and Piano for many shows.
 * TEDxMITAOE Convener for 3 years.
 * Performed at TEDxMITAOE 2020.
-![Power factor](images/niku.png){width=40px height=400px}
+![Power factor](images/niku.png){:height="36px" width="36px"}.
 
 
