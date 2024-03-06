@@ -55,8 +55,7 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
 * Identified unplanned reactive and active power inputs at PCC to prevent the grid from isolating itself without a system fault.
 * The results were assessed and compared to the planned power injections.
 * These estimated and recognized unscheduled power injections at PCC were caused by natural calamities that affected distribution networks.
-
-![34-node distribution system](/images/22.png)
+![Distribution Systems](images/22.png)
 
 *B.Tech Project:*\
 Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
