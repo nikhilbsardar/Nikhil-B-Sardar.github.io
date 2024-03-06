@@ -66,7 +66,7 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * Created the same type of load and total harmonic distortion (THD) level using Silumink in MATLAB.
 * Designed an active filer on MATLAB to improve the overall power factor.
   
-![Power factor](images/6666.png)
+![Power factor](images/666.png)
 
 **AWARDS AND ACHIEVEMENTS**
 * National Institute of Technology, (NIT), Warangal, GATE Scholarship (Aug 2015 – May 2017)
