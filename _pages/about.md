@@ -55,7 +55,7 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
 * The results were assessed and compared to the planned power injections.
 * These estimated and recognized unscheduled power injections at PCC were caused by natural calamities that affected distribution networks.
 
-![Illustration of combining vision and language modalities)(/ images/22.png)(: •align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/22.png)(: •align-right width="300px"}
 
 *B.Tech Project:*\
 Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
