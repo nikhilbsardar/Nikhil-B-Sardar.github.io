@@ -62,11 +62,11 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
 *B.Tech Project:*\
 Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * Studied the electrical systems and types of load connected.
-* Measured the Power factor and total harmonic distortion (THD) of a company using a power analyser device.
+* Measured a company's Power factor and total harmonic distortion (THD) using a power analyser device.
 * Created the same type of load and total harmonic distortion (THD) level using Silumink in MATLAB.
 * Designed an active filer on MATLAB to improve the overall power factor.
   
-![Power factor](images/66.png)
+![Power factor](images/666.png)
 
 **AWARDS AND ACHIEVEMENTS**
 * National Institute of Technology, (NIT), Warangal, GATE Scholarship (Aug 2015 – May 2017)
