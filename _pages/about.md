@@ -13,7 +13,7 @@ redirect_from:
 understanding of the field.
 * My research and patent work has helped me improve my skills in EVs, which I am enthusiastic about.
 * Proficiency in MATLAB Programming and Simulink
-![ Electrical Vehicle](images/EEV.png)
+![Electrical Vehicle](images/EEEV.png)
 
 **EDUCATION**
 
