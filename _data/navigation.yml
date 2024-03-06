@@ -11,10 +11,7 @@ main:
   - title: "CV"
     url: /cv/
     url: /files/NikhilBSardar.pdf
-    
-  - title: "References"
-    url: /References/
-    
-  - title : "Music as a Hobby"
+        
+  - title: "Music as a Hobby"
     url : /Music as a Hobby/ 
     url: https://www.youtube.com/channel/UCeQFji64Jl1J6-6dGYKOAPg
