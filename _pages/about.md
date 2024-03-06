@@ -75,7 +75,8 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 **EXTRACURRICULAR ACTIVITIES**
 * Composed, written, and recorded 5 Hindi songs.
 * Played Bass Guitar and Piano for many shows.
-* Performed at TEDxMITAOE 2020.
 * TEDxMITAOE Convener for 3 years.
+* Performed at TEDxMITAOE 2020.
+![Power factor](images/niku.png)
 
 
