@@ -12,7 +12,7 @@ redirect_from:
 * A Doctor of Philosophy aspirant with a strong interest in power electronics for electric vehicles (EVs) and a substantial
 understanding of the field.
 * My research and patent work has helped me improve my skills in EVs, which I am enthusiastic about.
-* Proficiency in MATLAB Programming and Simulink
+* Proficiency in MATLAB Simulink and Programming.
 ![Electrical Vehicle](images/EEEV.png)
 
 **EDUCATION**
@@ -27,7 +27,7 @@ Assistant Professor\
 MIT Academy of Engineering, Alandi (D), Pune, India \
 Aug'2018- Current
 * Experience in performing lab experiments (Hardware) on start and delta connections for 3-phase systems, finding characteristics of semiconductor devices ( MOSFET, SCR, TRAIC, IGBT), BJT as a switch and IC-regulated power supply,
-* Experience in performing lab experiments on power electronics- Rectifier Circuits, 1-phase and 3-phase Inverters (Using Simulink), Buck and boost DC-DC converters
+* Experience in performing lab experiments on power electronics- Rectifier Circuits, 1-phase and 3-phase Inverters (Using Simulink), Buck, boost, buck-boost DC-DC converters (Using Simulink)
 * Research on Throttle-less E-bicycle: This research work is focused on automating an E-bicycle using a few sensors
 * Courses taught:
     * Electrical and Electronics engineering
