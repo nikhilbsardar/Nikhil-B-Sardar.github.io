@@ -79,6 +79,6 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * Performed at TEDxMITAOE 2020.
 
   
-![Power factor](images/niku.png){:height="260px" width="260px"}.
+![Power factor](images/niku.png){:height="250px" width="250px"}.
 ![Power factor](images/bass.png){:height="300px" width="460px"}.
 
