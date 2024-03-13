@@ -80,5 +80,5 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 
   
 ![Power factor](images/niku.png){:height="360px" width="360px"}.
-![Power factor](images/bass.png){:height="360px" width="360px"}.
+![Power factor](images/bass.png){:height="460px" width="460px"}.
 
