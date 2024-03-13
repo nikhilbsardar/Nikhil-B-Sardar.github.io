@@ -11,6 +11,10 @@ main:
   - title: "CV"
     url: /cv/
     url: /files/New_Nikhil.Sardar.pdf
+  
+  - title: "M.Tech Thesis"
+    url: /cv/
+    url: /files/M.tech_.pdf
         
   - title: "Music as a Hobby"
     url : /Music as a Hobby/ 
