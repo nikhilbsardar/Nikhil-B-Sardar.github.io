@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **INTRODUCTION**
-* A Doctor of Philosophy aspirant with a strong interest in power electronics for electric vehicles (EVs) and a substantial
+* A PhD aspirant with a strong interest in power electronics for electric vehicles (EVs) and a substantial
 understanding of the field.
 * Proficiency in MATLAB Simulink and Programming.
 * My research and patent work has helped me improve my skills in EVs, which I am enthusiastic about.
