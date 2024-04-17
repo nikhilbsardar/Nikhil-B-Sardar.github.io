@@ -14,7 +14,18 @@ understanding of the field.
 * Proficiency in MATLAB Simulink and Programming.
 * My research and patent work has helped me improve my skills in EVs, which I am enthusiastic about.
 
+**RELEVANT COURSEWORK**
+
+* Power Electronics
+* Distribution Systems
+* Electronics Devices & Circuits
+* Electrical Vehicle Changing Methods
+* High Voltage AC
+* Control Systems
+* Power Systems
+  
 **RESEARCH INTEREST**
+
 * Power Electronics
 * Power Systems
 * Distribution Systems
@@ -22,10 +33,7 @@ understanding of the field.
 * Fast Charging of EVs
 * Onboard chargers (OBC) for EVs
 * Wireless Changing of EVs
-* E-bicycle Automation
-* E-bicycle Motor Control
-* Electrical Power System Engineering,
-  
+
 ![Electrical Vehicle](images/EEEV.png)
 
 **EDUCATION**
@@ -94,4 +102,19 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
   
 ![Power factor](images/niku.png){:height="250px" width="250px"}.
 ![Power factor](images/bass.png){:height="300px" width="460px"}.
+
+
+**REFERENCES**
+
+* Dr. Maheswarapu Sydulu
+Former Dean (Administration, R and C, Faculty Welfare) Professor (Retired)
+Department of Electrical Engineering,
+National Institute of Technology, Warangal msydulu@nitw.ac.in
++91 9440579995
+
+* Dr. Dagadu S. More
+Head of The Department, Associate Professor Department of Electrical Engineering
+Walchand College of Engineering, Sangli
+dagadu.more@walchandsangli.ac.in
++91 9892261135
 
