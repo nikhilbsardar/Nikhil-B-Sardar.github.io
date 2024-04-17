@@ -108,9 +108,9 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 
 * Dr. Maheswarapu Sydulu
 Former Dean (Administration, R and C, Faculty Welfare) Professor (Retired)
-Department of Electrical Engineering,
-National Institute of Technology, Warangal msydulu@nitw.ac.in
-+91 9440579995
+/ Department of Electrical Engineering,
+/ National Institute of Technology, Warangal msydulu@nitw.ac.in
+/ +91 9440579995
 
 * Dr. Dagadu S. More
 Head of The Department, Associate Professor Department of Electrical Engineering
