@@ -47,8 +47,8 @@ understanding of the field.
 Assistant Professor\
 MIT Academy of Engineering, Alandi (D), Pune, India \
 Aug'2018- Current
-* Experience in performing lab experiments (Hardware) on start and delta connections for 3-phase systems, Finding transformer efficiency using OC and SC Tests, Power measurements in 3-phase systems using 2-wattmeter methods, DC Regulated Power Supply, finding characteristics of semiconductor devices ( MOSFET, SCR, TRAIC, IGBT), BJT as a switch and IC-regulated power supply.
-* Experience in performing lab experiments (Hardware) on Buck, Boost and Buck-boost converters. 
+* Experience in performing lab experiments (Hardware) on star and delta connections for 3-phase systems, Finding transformer efficiency using OC and SC Tests, Power measurements in 3-phase systems using 2-wattmeter methods, finding characteristics of semiconductor devices ( MOSFET, SCR, TRAIC, IGBT), BJT as a switch and IC-regulated power supply.
+* Experience in performing lab experiments (Hardware) on Buck, Boost, and Buck-boost converters. 
 * Experience performing lab experiments on power electronics using MATLAB Simulink- 1-phase and 3-phase rectifier circuits, 1-phase and 3-phase inverter circuits, buck, boost and buck-boost DC-DC converter circuits, and AC voltage regulator circuits. 
 * Research on Throttle-less E-bicycle: This research work is focused on automating an E-bicycle using a few sensors
 * Courses taught:
