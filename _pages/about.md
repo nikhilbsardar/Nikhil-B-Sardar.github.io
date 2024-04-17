@@ -13,6 +13,18 @@ redirect_from:
 understanding of the field.
 * Proficiency in MATLAB Simulink and Programming.
 * My research and patent work has helped me improve my skills in EVs, which I am enthusiastic about.
+
+**RESEARCH INTEREST**
+* Power Electronics
+* Power Systems
+* Distribution Systems
+* Electrical Vehicle (EVs)
+* Fast Charging of EVs
+* Onboard chargers (OBC) for EVs
+* Wireless Changing of EVs
+* E-bicycle Automation
+* E-bicycle Motor Control
+* Electrical Power System Engineering,
   
 ![Electrical Vehicle](images/EEEV.png)
 
