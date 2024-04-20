@@ -12,8 +12,8 @@ redirect_from:
 * A PhD aspirant with a strong interest in power electronics and a substantial
 understanding of the field.
 * Proficiency in MATLAB Simulink and Programming.
-* My research and patent work has helped me improve my skills in EVs, which I am enthusiastic about.
-
+* My research and patent work has helped me improve my skills in Power Electronics, which I am enthusiastic about.
+  
 **RELEVANT COURSEWORK**
 
 * Power Electronics
@@ -43,7 +43,6 @@ understanding of the field.
 
 | M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |CGPI: 8.20/10|May’2017
 | B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|CGPI: 7.42/10|June’2013
-
 
 **WORK EXPERIENCE**
 
@@ -81,6 +80,7 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
 * Identified unplanned reactive and active power inputs at PCC to prevent the grid from isolating itself without a system fault.
 * The results were assessed and compared to the planned power injections.
 * These estimated and recognized unscheduled power injections at PCC were caused by natural calamities that affected distribution networks.
+  
 ![Distribution Systems](images/22.png)
 
 
@@ -103,10 +103,8 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 * TEDxMITAOE Convener for 3 years.
 * Performed at TEDxMITAOE 2020.
 
-  
 ![Power factor](images/niku.png){:height="250px" width="250px"}.
 ![Power factor](images/bass.png){:height="300px" width="460px"}.
-
 
 **REFERENCES**
 
