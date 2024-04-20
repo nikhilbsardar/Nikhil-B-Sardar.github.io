@@ -93,10 +93,6 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
   
 ![Power factor](images/666.png)
 
-**PUBLICATIONS**
-Link: https://scholar.google.com/citations?user=HJbiGIcAAAAJ&hl=en&oi=ao
-
-
 **AWARDS AND ACHIEVEMENTS**
 * National Institute of Technology, (NIT), Warangal, GATE Scholarship (Aug 2015 – May 2017)
 * Qualified in electrical engineering GATE 2014-15 & 2017-18
