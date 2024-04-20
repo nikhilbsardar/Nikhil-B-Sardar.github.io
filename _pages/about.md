@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **INTRODUCTION**
-* A PhD aspirant with a strong interest in power electronics for electric vehicles (EVs) and a substantial
+* A PhD aspirant with a strong interest in power electronics and a substantial
 understanding of the field.
 * Proficiency in MATLAB Simulink and Programming.
 * My research and patent work has helped me improve my skills in EVs, which I am enthusiastic about.
@@ -28,6 +28,8 @@ understanding of the field.
 
 * Power Electronics
 * Power Systems
+* Semiconductor Devices
+* Vehicle to Groid (V2G), Grid to Vehicle (G2V) and Vehicle to Load (V2L) Technoligies.
 * Distribution Systems
 * Electrical Vehicle (EVs)
 * Fast Charging of EVs
