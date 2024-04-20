@@ -28,9 +28,10 @@ understanding of the field.
 
 * Power Electronics
 * Power Systems
-* Semiconductor Devices
-* Vehicle to Groid (V2G), Grid to Vehicle (G2V) and Vehicle to Load (V2L) Technoligies.
 * Distribution Systems
+* Semiconductor Devices
+* Vehicle Charging Technologies
+* Vehicle to Groid (V2G), Grid to Vehicle (G2V) and Vehicle to Load (V2L) Technologies
 * Electrical Vehicle (EVs)
 * Fast Charging of EVs
 * Onboard chargers (OBC) for EVs
