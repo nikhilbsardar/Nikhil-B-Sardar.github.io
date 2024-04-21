@@ -46,7 +46,7 @@ understanding of the field.
 
 **PUBLICATIONS**
 
-**Journal Papers:**
+**Journal Paper:**
 
 * Abhishek Kumar, Rushit Trivedi, Aruna Kumari, Nikhil Sardar, “Single Axis Sun Tracking Photovoltaic system using Microcontroller”, International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET), Volume 10, Issue 5, May 2021, DOI:10.15680/IJIRSET.2021.1005239
 
@@ -65,7 +65,7 @@ understanding of the field.
 * Patil, D. Lakade, S. Khute and N. Sardar, "Throttle Less Electric Bicycle Controller Using Fuzzy Logic," 2023 IEEE Pune Section International Conference (PuneCon), Pune, India, 2023, pp. 1-4, doi:10.1109/PuneCon58714.2023.10450099
 
 **Patent:**
-* “Throttle-less E-bicycle” - Application No.202221075671 A has been published under Section 11A of the Indian Patents Act on January 27, 2023.
+* “Throttle-less E-bicycle”- Application No.202221075671 A has been published under Section 11A of the Indian Patents Act on January 27, 2023.
   
 **National Journal:**
 * Apurva Borghare, Arati Bhosale, Shital Kardile, Nikhil Sardar, “Smart Energy Monitoring using ARM Cortex ", SAMRIDDHI – A Journal of Physical Sciences, Engineering & Technology Vol. 12, Special Issue 2, 2020, ISSN: 2454 – 5767. RNI No. UPENG04179
@@ -120,8 +120,8 @@ Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
 ![Power factor](images/666.png)
 
 **AWARDS AND ACHIEVEMENTS**
-* National Institute of Technology, (NIT), Warangal, GATE Scholarship (Aug 2015 – May 2017)
-* Qualified in electrical engineering GATE 2014-15 & 2017-18
+* MHRD GATE Scholarship (Aug 2015 – May 2017)
+* Qualified electrical engineering GATE Examinations in 2014-15 & 2017-18
 
 **EXTRACURRICULAR ACTIVITIES**
 * Composed, written, and recorded 5 Hindi songs.
