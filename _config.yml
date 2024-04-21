@@ -31,7 +31,7 @@ author:
   email            : "nikhilsardar0605@gmail.com" 
 
   Academic websites :
-  Linkedin          : https://www.linkedin.com/in/nikhil-b-sardar-5aa78316a/
+  #Linkedin          : https://www.linkedin.com/in/nikhil-b-sardar-5aa78316a/
   googlescholar     : "https://scholar.google.com/citations?user=HJbiGIcAAAAJ&hl=en&oi=ao"
   #Linkedin          : ""
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  #linkedin         : "https://www.linkedin.com/in/nikhil-b-sardar-5aa78316a/"
+  linkedin         : https://www.linkedin.com/in/nikhil-b-sardar-5aa78316a/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
