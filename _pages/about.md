@@ -60,7 +60,7 @@ understanding of the field.
 
 * Mayur M. Pawar, Shubham V. Ranbhare, Shree G. Mane, **Nikhil B. Sardar**, “Emergency Robot”, Proceedings of Cybernetics, Cognition and Machine Learning Applications (ICCCMLA 2020)
   
-* Renuka D. Modak, Vikramsinh A. Doke, Sayali U. Kawarkar,** Nikhil B Sardar** “Wireless Battery Monitoring System for Electric Vehicle”, Proceedings of Cybernetics, Cognition and Machine Learning Applications (ICCCMLA 2020)
+* Renuka D. Modak, Vikramsinh A. Doke, Sayali U. Kawarkar, **Nikhil B Sardar**, “Wireless Battery Monitoring System for Electric Vehicle”, Proceedings of Cybernetics, Cognition and Machine Learning Applications (ICCCMLA 2020)
   
 * Patil, D. Lakade, S. Khute and **N. Sardar** "Throttle Less Electric Bicycle Controller Using Fuzzy Logic," 2023 IEEE Pune Section International Conference (PuneCon), Pune, India, 2023, pp. 1-4, doi:10.1109/PuneCon58714.2023.10450099
 
