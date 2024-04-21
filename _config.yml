@@ -24,7 +24,7 @@ author:
   avatar           : "nbs.png"
   name             : "Nikhil B Sardar"
   pronouns         : # example: "she/her"  
-  bio              : " PhD Aspirant in the field of electrical engineering"
+  bio              : " PhD Aspirant"
   location         : "Pune, Maharashtra, India"
   employer         : "MIT AOE Alandi (D) Pune"
   uri              : https://mitaoe.ac.in/School-of-E&TC-Engineering-Nikhil-Sardar.php
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/nikhil-b-sardar-5aa78316a/"
+  #linkedin         : "https://www.linkedin.com/in/nikhil-b-sardar-5aa78316a/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
