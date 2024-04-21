@@ -44,6 +44,32 @@ understanding of the field.
 | M.Tech Electrical Power System Engineering | National Institute of Technology, Warangal, India |CGPI: 8.20/10|May’2017
 | B. Tech: Electrical Engineering | Walchand College of Engineering, Sangli|CGPI: 7.42/10|June’2013
 
+** PUBLICATIONS**
+
+**Journal Papers:**
+
+* Abhishek Kumar, Rushit Trivedi, Aruna Kumari, Nikhil Sardar, “Single Axis Sun Tracking Photovoltaic system using Microcontroller”, International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET), Volume 10, Issue 5, May 2021, DOI:10.15680/IJIRSET.2021.1005239
+
+Conference Papers:
+
+* Megha Jadhav, Aarti Chaure, Aditya Netake, Indrajit Pawar, Nikhil B Sardar, Vaishali Katkar, “Regenerative System for Mountain E-Bicycle”, 1st International Conference on Circuits, Power, and Intelligent Systems (CCPIS), 2023
+  
+* Vaishnavi Bhagwat, Harshvardhan Barge, Ganesh Naik, Vaishali Katkar, Nikhil B Sardar, Robust Estimation of State of Charge for Electric Vehicular Application”,1st International Conference on Circuits, Power, and Intelligent Systems (CCPIS), 2023
+
+* Mohan P Thakre, Yogesh V. Mahadik, Nikhil B Sardar, “Architecture of a HV Power Battery Protection Devices for Hybrid Electric Vehicles,” (HEV), - IOP Conf. Series: Materials Science and Engineering, ICCSSS 2020
+
+* Mayur M. Pawar, Shubham V. Ranbhare, Shree G. Mane, Nikhil B. Sardar, “Emergency Robot”, Proceedings of Cybernetics, Cognition and Machine Learning Applications (ICCCMLA 2020)
+  
+* Renuka D. Modak, Vikramsinh A. Doke, Sayali U. Kawarkar, Nikhil B Sardar “Wireless Battery Monitoring System for Electric Vehicle”, Proceedings of Cybernetics, Cognition and Machine Learning Applications (ICCCMLA 2020)
+  
+* Patil, D. Lakade, S. Khute and N. Sardar, "Throttle Less Electric Bicycle Controller Using Fuzzy Logic," 2023 IEEE Pune Section International Conference (PuneCon), Pune, India, 2023, pp. 1-4, doi:10.1109/PuneCon58714.2023.10450099
+
+**Patent: **
+* “Throttle-less E-bicycle” - Application No.202221075671 A has been published under Section 11A of the Indian Patents Act on January 27, 2023.
+  
+**National Journal: **
+* Apurva Borghare, Arati Bhosale, Shital Kardile, Nikhil Sardar, “Smart Energy Monitoring using ARM Cortex ", SAMRIDDHI – A Journal of Physical Sciences, Engineering & Technology Vol. 12, Special Issue 2, 2020, ISSN: 2454 – 5767. RNI No. UPENG04179
+
 **WORK EXPERIENCE**
 
 Assistant Professor\
