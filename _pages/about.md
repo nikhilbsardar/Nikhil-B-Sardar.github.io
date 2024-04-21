@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **INTRODUCTION**
+
 * A PhD aspirant with a strong interest in power electronics and a substantial
 understanding of the field.
 * Proficiency in MATLAB Simulink and Programming.
@@ -69,7 +70,7 @@ understanding of the field.
   
 **National Journal:**
 * Apurva Borghare, Arati Bhosale, Shital Kardile, **Nikhil Sardar**, “Smart Energy Monitoring using ARM Cortex ", SAMRIDDHI – A Journal of Physical Sciences, Engineering & Technology Vol. 12, Special Issue 2, 2020, ISSN: 2454 – 5767. RNI No. UPENG04179
-
+  
 **WORK EXPERIENCE**
 
 Assistant Professor\
@@ -95,8 +96,8 @@ June’2017 – May’2018
   
 **PROJECTS**
 
-*M.Tech Project:*\
-Real-Time Monitoring of Points of Common Coupling in Distribution Systems through State Estimation:
+**M.Tech Project:**\
+**Real-Time Monitoring of Points of Common Coupling in Distribution Systems through State Estimation:**
 * Modelled a distribution Network.
 * Performed Root-vector-based Algorithm for observability test for IEEE 34 bus system to add Pseudo Measurements in the system.
 * Implemented and compared results of the Forward/Backward sweep algorithm and Improved the Load flow method of the IEEE 34 bus distribution system.
@@ -109,9 +110,8 @@ Real-Time Monitoring of Points of Common Coupling in Distribution Systems throug
   
 ![Distribution Systems](images/22.png)
 
-
-*B.Tech Project:*\
-Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol
+**B.Tech Project:**\
+**Energy audit at (KPT) Kulkarni Power Tools Ltd., Shirol**
 * Studied the electrical systems and types of load connected.
 * Measured a company's Power factor and total harmonic distortion (THD) using a power analyser device.
 * Created the same type of load and total harmonic distortion (THD) level using Silumink in MATLAB.
