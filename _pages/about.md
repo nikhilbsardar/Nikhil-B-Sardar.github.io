@@ -10,10 +10,10 @@ redirect_from:
 
 **INTRODUCTION**
 
-* A PhD aspirant with a strong interest in power electronics and a substantial
+* A PhD aspirant with a strong interest in power systems and power electronics and a substantial
 understanding of the field.
 * Proficiency in MATLAB Simulink and Programming.
-* My research and patent work has helped me improve my skills in Power Electronics, which I am enthusiastic about.
+* My research and patent work have helped me improve my skills in power systems, distribution systems and Power Electronics, which I am enthusiastic about.
   
 **RELEVANT COURSEWORK**
 
