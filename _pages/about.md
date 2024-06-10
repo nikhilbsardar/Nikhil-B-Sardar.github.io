@@ -24,13 +24,21 @@ understanding of the field.
 * High Voltage AC
 * Control Systems
 * Power Systems
+
+**TEACHING**
+
+* Power Systems
+* Power Electronics
+* Calculus and Differential Equations
+* Control systems
+* Electrical and Electronics Engineering
   
 **RESEARCH INTEREST**
 
-* Power Electronics
 * Power Systems
 * Distribution Systems
 * Semiconductor Devices
+* Power Electronics
 * Vehicle Charging Technologies
 * Vehicle to Groid (V2G), Grid to Vehicle (G2V) and Vehicle to Load (V2L) Technologies
 * Electrical Vehicle (EVs)
@@ -97,7 +105,7 @@ June’2017 – May’2018
 **PROJECTS**
 
 **M.Tech Project:**\
-**Real-Time Monitoring of Points of Common Coupling in Distribution Systems through State Estimation:**
+**Real-time monitoring of Points of Common Coupling in Distribution Systems through State Estimation:**
 * Modelled a distribution Network.
 * Performed Root-vector-based Algorithm for observability test for IEEE 34 bus system to add Pseudo Measurements in the system.
 * Implemented and compared results of the Forward/Backward sweep algorithm and Improved the Load flow method of the IEEE 34 bus distribution system.
