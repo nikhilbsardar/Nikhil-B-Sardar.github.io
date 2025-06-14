@@ -17,7 +17,7 @@ redirect_from:
   
 **RELEVANT COURSEWORK**
 
-* Electrical Vehicles
+* Electric Vehicles
 * Cyber Security
 * AI/ML
 * Distribution Systems
