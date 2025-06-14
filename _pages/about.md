@@ -87,7 +87,7 @@ Vehicle On-Board Charger (OBC) ”,  2025 IEEE 4th International Conference on S
 
 **Funded Project**
 
-* Design and development of environment-friendly E-bicycle: (2024-2026), Funded by SPPU ASPIRE Research Mentorship Scheme (Rs. 270k, 20TEC000818) (Ongoing) 
+* "Design and development of environment-friendly E-bicycle": (2024-2026), Funded by SPPU ASPIRE Research Mentorship Scheme (Rs. 270k, 20TEC000818) (Ongoing) 
   
 **WORK EXPERIENCE**
 
