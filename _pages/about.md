@@ -10,14 +10,16 @@ redirect_from:
 
 **INTRODUCTION**
 
-* A PhD aspirant with a strong interest in power systems and power electronics and a substantial
-understanding of the field.
-* Proficiency in MATLAB Simulink and Programming.
+* A PhD research scholar at IIT Roorkee in the department of hydro and renewable energy.
+* Project title: Cyber Security in Electrical Vehicles. 
+* Proficiency in MATLAB, Simulink and Programming.
 * My research and patent work have helped me improve my skills in power systems, distribution systems and Power Electronics, which I am enthusiastic about.
   
 **RELEVANT COURSEWORK**
 
-* Power Electronics
+* Electrical Vehicles
+* Cyber Security
+* AI/ML
 * Distribution Systems
 * Electrical and Electronics Engineering
 * Electronics Devices & Circuits
@@ -36,6 +38,7 @@ understanding of the field.
 **RESEARCH INTEREST**
 
 * Power Systems
+* Cyber Security in EVs
 * Distribution Systems
 * Semiconductor Devices
 * Power Electronics
@@ -44,7 +47,7 @@ understanding of the field.
 * Electrical Vehicle (EVs)
 * Fast Charging of EVs
 * Onboard chargers (OBC) for EVs
-* Wireless Changing of EVs
+* Wireless Charging of EVs
 
 ![Electrical Vehicle](images/EEEV.png)
 
@@ -55,29 +58,36 @@ understanding of the field.
 
 **PUBLICATIONS**
 
-**Journal Paper:**
-
-* Abhishek Kumar, Rushit Trivedi, Aruna Kumari, **Nikhil Sardar**, “Single Axis Sun Tracking Photovoltaic system using Microcontroller”, International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET), Volume 10, Issue 5, May 2021, DOI:10.15680/IJIRSET.2021.1005239
-
 **Conference Papers:**
+* Nikhil B Sardar, Prashant Surana, Gaurav Choudhary, Amit Kumar, Gianluca Gatto, “Cyber-Attack Analysis and Investigation on PMSM Drive System in Battery Electrical Vehicles”, 2025 IEEE Energy Conversion Congress & Exposition Asia (ECCE-Asia)
 
-* Megha Jadhav, Aarti Chaure, Aditya Netake, Indrajit Pawar, **Nikhil B Sardar**, Vaishali Katkar, “Regenerative System for Mountain E-Bicycle”, 1st International Conference on Circuits, Power, and Intelligent Systems (CCPIS), 2023
-  
-* Vaishnavi Bhagwat, Harshvardhan Barge, Ganesh Naik, Vaishali Katkar, **Nikhil B Sardar**, Robust Estimation of State of Charge for Electric Vehicular Application”,1st International Conference on Circuits, Power, and Intelligent Systems (CCPIS), 2023
+* Nikhil B Sardar, Prashant Surana, Gaurav Choudhary, “Exploring Cyber Risks in Grid-Integrated Electrical
+Vehicle On-Board Charger (OBC) ”,  2025 IEEE 4th International Conference on Smart Technologies for Power, Energy, and Control December 10-13, 2025 | NIT Goa, India (Submitted) 
 
-* Mohan P Thakre, Yogesh V. Mahadik, **Nikhil B Sardar**, “Architecture of a HV Power Battery Protection Devices for Hybrid Electric Vehicles,” (HEV), - IOP Conf. Series: Materials Science and Engineering, ICCSSS 2020
+* Mohan P Thakre, Yogesh V. Mahadik, Nikhil B Sardar, “Architecture of a HV Power Battery Protection Devices for Hybrid Electric Vehicles,” (HEV), - IOP Conf. Series: Materials Science and Engineering, ICCSSS 2020
 
-* Mayur M. Pawar, Shubham V. Ranbhare, Shree G. Mane, **Nikhil B. Sardar**, “Emergency Robot”, Proceedings of Cybernetics, Cognition and Machine Learning Applications (ICCCMLA 2020)
-  
-* Renuka D. Modak, Vikramsinh A. Doke, Sayali U. Kawarkar, **Nikhil B Sardar**, “Wireless Battery Monitoring System for Electric Vehicle”, Proceedings of Cybernetics, Cognition and Machine Learning Applications (ICCCMLA 2020)
-  
-* Patil, D. Lakade, S. Khute and **N. Sardar** "Throttle Less Electric Bicycle Controller Using Fuzzy Logic," 2023 IEEE Pune Section International Conference (PuneCon), Pune, India, 2023, pp. 1-4, doi:10.1109/PuneCon58714.2023.10450099
+* Megha Jadhav, Aarti Chaure, Aditya Netake, Indrajit Pawar, Nikhil B Sardar, Vaishali Katkar, “Regenerative System for Mountain E-Bicycle”, 1st International Conference on Circuits, Power, and Intelligent Systems (CCPIS), 2023
 
-**Patent:**
-* “Throttle-less E-bicycle”- Application No.202221075671 A has been published under Section 11A of the Indian Patents Act on January 27, 2023.
+* Vaishnavi Bhagwat, Harshvardhan Barge, Ganesh Naik, Vaishali Katkar, Nikhil B Sardar, Robust Estimation of State of Charge for Electric Vehicular Application”,1st International Conference on Circuits, Power, and Intelligent Systems (CCPIS), 2023
+
+* Mayur M. Pawar, Shubham V. Ranbhare, Shree G. Mane, Nikhil B. Sardar, “Emergency Robot”, Proceedings of Cybernetics, Cognition and Machine Learning Applications (ICCCMLA 2020)
+
+* Renuka D. Modak, Vikramsinh A. Doke, Sayali U. Kawarkar, Nikhil B Sardar “Wireless Battery Monitoring System for Electric Vehicle”, Proceedings of Cybernetics, Cognition and Machine Learning Applications (ICCCMLA 2020)
+
+* Patil, D. Lakade, S. Khute and N. Sardar, "Throttle Less Electric Bicycle Controller Using Fuzzy Logic," 2023 IEEE Pune Section International Conference (PuneCon), Pune, India, 2023, pp. 1-4, doi:10.1109/PuneCon58714.2023.10450099
+
+**Patent
+* “Throttle-less E-bicycle” - Application No.202221075671 A has been published under Section 11A of the Indian Patents Act on January 27, 2023.
   
-**National Journal:**
-* Apurva Borghare, Arati Bhosale, Shital Kardile, **Nikhil Sardar**, “Smart Energy Monitoring using ARM Cortex ", SAMRIDDHI – A Journal of Physical Sciences, Engineering & Technology Vol. 12, Special Issue 2, 2020, ISSN: 2454 – 5767. RNI No. UPENG04179
+**International Journal
+* Abhishek Kumar, Rushit Trivedi, Aruna Kumari, Nikhil Sardar, “Single Axis Sun Tracking Photovoltaic system using Microcontroller”, International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET), Volume 10, Issue 5, May 2021, DOI:10.15680/IJIRSET.2021.1005239
+
+**National Journal
+* Apurva Borghare, Arati Bhosale, Shital Kardile, Nikhil Sardar, “Smart Energy Monitoring using ARM Cortex ", SAMRIDDHI – A Journal of Physical Sciences, Engineering & Technology Vol. 12, Special Issue 2, 2020, ISSN: 2454 – 5767. RNI No. UPENG04179
+
+**Funded Project
+
+*Design and development of environment friendly E-bicycle: (2024-2026), Funded by SPPU ASPIRE Research Mentorship Scheme (Rs. 270k, 20TEC000818) (Ongoing) 
   
 **WORK EXPERIENCE**
 
