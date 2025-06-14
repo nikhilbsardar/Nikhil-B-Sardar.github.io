@@ -11,7 +11,7 @@ redirect_from:
 **INTRODUCTION**
 
 * A PhD research scholar at IIT Roorkee in the department of hydro and renewable energy.
-* Project title: Cyber Security in Electrical Vehicles. 
+* PhD Project title: Cyber Security in Electrical Vehicles. 
 * Proficiency in MATLAB, Simulink and Programming.
 * My research and patent work have helped me improve my skills in power systems, distribution systems and Power Electronics, which I am enthusiastic about.
   
@@ -76,16 +76,16 @@ Vehicle On-Board Charger (OBC) ”,  2025 IEEE 4th International Conference on S
 
 * Patil, D. Lakade, S. Khute and N. Sardar, "Throttle Less Electric Bicycle Controller Using Fuzzy Logic," 2023 IEEE Pune Section International Conference (PuneCon), Pune, India, 2023, pp. 1-4, doi:10.1109/PuneCon58714.2023.10450099
 
-**Patent
+**Patent**
 * “Throttle-less E-bicycle” - Application No.202221075671 A has been published under Section 11A of the Indian Patents Act on January 27, 2023.
   
-**International Journal
+**International Journal**
 * Abhishek Kumar, Rushit Trivedi, Aruna Kumari, Nikhil Sardar, “Single Axis Sun Tracking Photovoltaic system using Microcontroller”, International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET), Volume 10, Issue 5, May 2021, DOI:10.15680/IJIRSET.2021.1005239
 
-**National Journal
+**National Journal**
 * Apurva Borghare, Arati Bhosale, Shital Kardile, Nikhil Sardar, “Smart Energy Monitoring using ARM Cortex ", SAMRIDDHI – A Journal of Physical Sciences, Engineering & Technology Vol. 12, Special Issue 2, 2020, ISSN: 2454 – 5767. RNI No. UPENG04179
 
-**Funded Project
+**Funded Project**
 
 *Design and development of environment friendly E-bicycle: (2024-2026), Funded by SPPU ASPIRE Research Mentorship Scheme (Rs. 270k, 20TEC000818) (Ongoing) 
   
