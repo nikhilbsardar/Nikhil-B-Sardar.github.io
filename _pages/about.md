@@ -17,7 +17,7 @@ redirect_from:
   
 **RELEVANT COURSEWORK**
 
-* Electric Vehicles
+* Electrical Vehicles
 * Cyber Security
 * AI/ML
 * Distribution Systems
@@ -87,7 +87,7 @@ Vehicle On-Board Charger (OBC) ”,  2025 IEEE 4th International Conference on S
 
 **Funded Project**
 
-*Design and development of environment friendly E-bicycle: (2024-2026), Funded by SPPU ASPIRE Research Mentorship Scheme (Rs. 270k, 20TEC000818) (Ongoing) 
+* Design and development of environment-friendly E-bicycle: (2024-2026), Funded by SPPU ASPIRE Research Mentorship Scheme (Rs. 270k, 20TEC000818) (Ongoing) 
   
 **WORK EXPERIENCE**
 
@@ -102,7 +102,7 @@ Aug'2018- Current
     * Electrical and Electronics engineering
     * Power Electronics
     * Calculus and differential equations
-    * Electronics devices and circuits
+    * Electronic devices and circuits
 
 Assistant Professor\
 Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati\
