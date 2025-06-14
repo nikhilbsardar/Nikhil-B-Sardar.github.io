@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "**ABOUT ME**" 
-excerpt: "NIKHIL B SARDAR"
+excerpt: "NIKHIL BHASKAR SARDAR"
 author_profile: true
 redirect_from: 
   - /about/
