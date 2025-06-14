@@ -49,7 +49,7 @@ redirect_from:
 * Onboard chargers (OBC) for EVs
 * Wireless Charging of EVs
 
-![Electrical Vehicle](images/EEEV.png)
+![Electrical Vehicle](images/cyber.png)
 
 **EDUCATION**
 
